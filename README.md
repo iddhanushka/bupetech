@@ -1,3 +1,4 @@
 # bupetech
 
-<h3>run 'npm install'</h3>
+<h3>npm install</h3>
+<h4>run 'npm run dev'</h4>
