@@ -3,8 +3,13 @@
   background: linear-gradient(109.98deg, rgba(248, 248, 248, 0.4) 8.99%, rgba(223, 223, 223, 0.4) 51.88%, rgba(239, 239, 239, 0.4) 94.78%);
   opacity: 0.9;
 
-  &--bg-img {
+  &--sec-policies-bg-img {
     background-image: url("/app/assets/images/sec-bg-img.jpg");
+    background-size: cover;
+  }
+
+  &--sec-clt-bg-img {
+    background-image: url("/app/assets/images/sec-clt-bg-img.jpg");
     background-size: cover;
   }
 
