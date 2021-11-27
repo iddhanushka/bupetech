@@ -1,6 +1,10 @@
 .site-footer {
   padding: 5rem 0;
 
+  &--bg-lightWhite {
+    background-color: $lightWhite;
+  }
+
   &__content {
     .logo {
       width: 100%;
