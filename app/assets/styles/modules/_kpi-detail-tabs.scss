@@ -26,4 +26,8 @@
       transform: translateX(-50%);
     }
   }
+
+  &__content {
+    background-image: url("/app/assets/images/kpi-solution-bg.png");
+  }
 }
